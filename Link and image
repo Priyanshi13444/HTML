@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h1> Adding a hyperlink </h1>
+    <a href="https://www.google.com">This is a link</a>
+    <h1> Adding a image </h1>
+    <img src="apple.jpg" alt="apple" width="300" height="300">
+
+    <!-- upload image in your editor(like Vscode) first then only image will be visible in site-->
+
+    <p>If we try to display an image that does not exist, the value of the alt attribute will be displayed instead. </p>
+
+    <!-- src-> contains the path of image-->
+    <!-- alt-> it tell us what the image contain if connection get lost aur slow-->
+</body>
+</html>
