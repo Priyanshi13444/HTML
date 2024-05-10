@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Heading </h1>
+    <p> Paragraph </p> 
+    <p> <br> break or nextline </p>
+    <p>The paragraph
+        contain
+        all          the detail.</p>
+    <pre> The paragraph
+        contain
+        all          the detail.
+    </pre>
+    <h1> Most important </h1>
+    <h2> Important after h1 </h2>
+    <h3> Important after h2 </h3>
+    <h4> Important after h3 </h4>
+    <h5> Important after h4 </h5>
+    <h6> least important </h6>
+    <!-- Add comment here-->
+    <b> I am Bold text </b><br>
+    <i> I am italic text </i><br>
+    <strong> I am important text </strong><br>
+    <del> I am deleted text </del><br>
+    <ins> I am underlined text </ins><br>
+    <small> I am small text </small><br>
+    <em> I am emphasized text </em><br>
+    <mark> I am marked text</mark><br>
+    <q> I am quoted text </q><br>
+</body>
+</html>
