@@ -1,0 +1,18 @@
+<!-- VS Code Compiler-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>H<sub>2</sub>O</p><br>
+    <p>This is subscript text.</p>
+    <hr>
+    <p>This is horizontal line.</p><br>
+    <p>2<sup>2</sup></p><br>
+    <p style="font-family: 'Lucida Sans';">This set the writting style of text</p><br>
+    <p style="font-size: 70%;">This set the size of font.</p>
+</body>
+</html>
