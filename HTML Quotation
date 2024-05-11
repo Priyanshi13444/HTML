@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p><b>blockquote</b> element defines a section that is quoted from another source.</p>
+    <blockquote cite="http://www.worldwildlife.org/who/index.html">
+        For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.
+    </blockquote>
+    <br>
+    <hr>
+    <p><b> abbr </b> used to represent the abbreviation of text.</p>
+    <p> The <abbr title="world Health Oraganisation">WHO</abbr> shoes a big concern towards rapid increase in heartattack cases in world.</p><hr>
+    <p><b>address  </b> tag defines the contact information for the author/owner of a document or an article.</p>
+    <address>
+        Written by author name.<br>
+        Visit us at:<br>
+        Example.com<br>
+        address<br>
+        India
+        </address>
+        <br>
+        <hr>
+    <p><b>bdo </b> tag is used to override the current text direction:</p>
+    <bdo dir="rtl">This text will be written from right to left</bdo>
+    <br>
+    <hr>
+    <p><b>cite  </b>tag defines the title of a creative work (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.).</p>
+    <p><cite>The Lion</cite> by Elly Mello</p><hr>
+</body>
+</html>
