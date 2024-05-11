@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <p style="color:blueviolet;">This is a style colored paragraph</p><br>
+    <p title="I'm a heading">Wonderful place</p>
+    <p> <b>Move mouse over this paragraph, to display the title attribute.It display all the text in quotes.</b></p><br>
+    <p title=About place>This is the information about place</p>
+    <p> <b> Move mouse over this paragraph, to display the title attribute.It display only the first text as it is written without quotes.</b></p>
+
+</body>
+</html>
